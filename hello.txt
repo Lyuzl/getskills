@@ -1,1 +1,2 @@
 hello github
+Git is really an amazing tools.
